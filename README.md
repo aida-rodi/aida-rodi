@@ -3,7 +3,7 @@
 
 👩🏽‍💻 Here's a project I've worked on: [**Solucions Interiorismo**](https://www.solucions-interiorismo.com/)
 
-🌱 I’m constanty learning and growing! Right now I'm working on **a videogame** *(more info soon)*
+🌱 I’m constanty learning and growing! Right now I'm working on improving my **react** skills
 
 🏳️‍🌈 I am **nonbinary**, my pronouns are **she/they** and my page will always be a **safe space** for everyone
 
