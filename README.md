@@ -3,7 +3,7 @@
 
 👩🏽‍💻 Here's a project I've worked on: [**Solucions Interiorismo**](https://www.solucions-interiorismo.com/)
 
-🌱 I’m constanty learning and growing! Right now I'm working on improving my **react** skills
+🌱 I’m constanty learning and growing! Right now I'm participating in a [**collaborative project**](https://github.com/IT-Academy-BCN/ita-profiles) to improve my **react** skills
 
 🏳️‍🌈 I am **nonbinary**, my pronouns are **she/they** and my page will always be a **safe space** for everyone
 
